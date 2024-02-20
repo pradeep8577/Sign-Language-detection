@@ -105,3 +105,5 @@ To set up and use Sentiment Analyzer in your own project, follow these steps:
 ```
 streamlit run home.py
 ```
+
+# live app link : [https://share.streamlit.io/pradeep8577/]
