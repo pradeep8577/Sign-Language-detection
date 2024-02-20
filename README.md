@@ -107,4 +107,5 @@ streamlit run home.py
 ```
 
 # live app 
-[Live App](https://share.streamlit.io/pradeep8577)
+[Live App](https://sign-language-detection-je4d5q8ceykbappfvtnapl5.streamlit.app/)
+
