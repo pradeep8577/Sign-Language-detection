@@ -29,7 +29,7 @@ def load_model():
             )
     return model, data, class_labels, mp_drawing, mp_drawing_styles, mp_hands, hands
 
-st.set_page_config(page_title='ISL Detection', layout='wide', page_icon=':raised_hands:')
+st.set_page_config(page_title='Sign Language Detection', layout='wide', page_icon=':raised_hands:')
 model, data, class_labels, mp_drawing, mp_drawing_styles, mp_hands, hands = load_model()
 
 def process(image):
@@ -135,7 +135,7 @@ def process_img(img):
 
 cols = st.columns([2.5,5,2.5])
 cols[1].image('images/ISL Logo1.png')
-st.header("Explore below options for ISL Digits Detection")
+st.header("Explore below options for Sign Language Detection")
 
 selected_option = st.selectbox("Select option", options=['WebCam', 'Upload Video','Upload Image'], key="selectOption")
 if selected_option == 'WebCam':

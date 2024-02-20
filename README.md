@@ -1,4 +1,4 @@
-# ISL Detection - An Indian ☝ Sign 👋 Language 🖐️ Symbol Detection app.
+# Sign Language Detection - An Indian ☝ Sign 👋 Language 🖐️ Symbol Detection app.
 [![Site](https://img.shields.io/static/v1?label=visit%20Website&message=ISL%20Detection%20Page&color=yellow)](https://isl-detection.streamlit.app)
 [![Linkedin](https://img.shields.io/static/v1?label=visit&message=My%20Linkedin%20Page&color=blue&logo=linkedin)](https://www.linkedin.com/in/shailesh-bisht-b42a73184/)
 [![Hosted-on](https://img.shields.io/static/v1?label=made%20with&message=Streamlit&color=c21a09&logo=streamlit)](https://streamlit.io/)
@@ -106,4 +106,5 @@ To set up and use Sentiment Analyzer in your own project, follow these steps:
 streamlit run home.py
 ```
 
-# live app link : [https://share.streamlit.io/pradeep8577/]
+# live app 
+[Live App](https://share.streamlit.io/pradeep8577)
