@@ -7,5 +7,4 @@ ISL4.keras
 
 # Ignore the following directories
 logs/
-models/
 env/

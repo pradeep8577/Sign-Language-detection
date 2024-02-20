@@ -10,7 +10,7 @@ from methods import *
 
 @st.cache_resource
 def load_model():
-    model = keras.models.load_model("./models/keras_model.h5", compile=False)
+    model = keras.models.load_model("models/keras_model.h5", compile=False)
     data = np.ndarray(shape=(1, 224, 224, 3), dtype=np.float32)
     class_labels = {0: '0', 1: '1', 2: '2', 3: '3', 4: '4', 5: '5',
                 6: '6', 7: '7', 8: '8', 9: '9', 10: 'A', 11:
