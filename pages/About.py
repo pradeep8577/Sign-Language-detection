@@ -84,7 +84,7 @@ with st.expander("Data Analysis"):
 
           - Clone this repository to your local machine.
           ```
-            git clone https://github.com/peskyji/ISL-Hand-Sign-Recognition.git
+            git clone https://github.com/pradeep8577/Sign-Language-detection.git
           ```
           - Install the required dependencies for python 3.9 or above.
           ```
