@@ -60,7 +60,7 @@ with st.expander("Data Analysis"):
 
           - Developed a custom dataset utilizing Google Teachable Machine, further contributing to the dataset's richness and authenticity.
 
-          - Please refer to this **[notebook](https://colab.research.google.com/drive/1w6l66LP_64kAyPYr55McLQwcjCvdrlEo#scrollTo=6MB5xTQeSLOP)** for complete detailed analysis, also check out other files in this **[📁](https://drive.google.com/drive/u/0/folders/1REEotHVi5nWUc2GXjauM6MUBULE7TL_d)**,all these are part of the Data Pre-processing and Data Cleaning.
+          - Please refer to this **[notebook](https://colab.research.google.com/drive/1PHeSCqiqP_tCu_eQPQKhKMNr5cV10ing?usp=sharing)**,all these are part of the Data Pre-processing and Data Cleaning.
 
           #### iii). CNN Architecture
           - created a **Convolutional Nueral Network** (CNN) Model with below architecture
